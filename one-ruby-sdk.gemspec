@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Easy access to all of the LOTR titles and quotes in one gem'
   spec.description   = 'Quickly and easily get *all* of the LOTR movies into your Ruby project. Amaze your friends with the best quotes, at your fingertips. '
-  spec.homepage      = 'https://github.com/bgkittrell/one-ruby-sdk'
+  spec.homepage      = 'https://github.com/bgkittrell/Ben_Kittrell-SDK'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

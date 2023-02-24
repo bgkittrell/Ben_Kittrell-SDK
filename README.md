@@ -1,6 +1,6 @@
 # Has this ever happened to you?
 
-![One does not simply](https://github.com/bgkittrell/one-ruby-sdk/blob/main/undefined.jpg?raw=true)
+![One does not simply](https://github.com/bgkittrell/Ben_Kittrell-SDK/blob/main/undefined.jpg?raw=true)
 
 We'll not anymore! With the OneRuby gem you can get a list of all of the LOTR movies and quotes, in your code!
 
@@ -84,7 +84,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/bgkittrell/one-ruby-sdk.
+Bug reports and pull requests are welcome on GitHub at https://github.com/bgkittrell/Ben_Kittrell-SDK.
 
 ## License
 
